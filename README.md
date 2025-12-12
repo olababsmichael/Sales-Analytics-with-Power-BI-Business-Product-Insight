@@ -286,7 +286,7 @@ This project demonstrates strong analytical workflow: cleaning, modelling, DAX, 
 
 ## Project Files Structure
 - **data**
-  - [Dimension Tables(product, manufacturer, geo)](./salesdata/bi_dimension.xlsx)
+  - [Dimension Tables(product, manufacturer, geo)](./salesdata/bi_dimensions.xlsx)
 
 - **images**
   - [dashboard1](./salesdata/dashboard1.JPG)
