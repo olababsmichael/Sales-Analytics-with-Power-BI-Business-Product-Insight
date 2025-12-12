@@ -239,7 +239,7 @@ This table defines the KPIs used across the dashboard and recommended display fo
 ##  Dashboard 1 — Business Overview
 This dashboard provides a high-level overview of sales performance, revenue, and urban vs rural contribution across all regions.
 
-![Dashboard 1](/salesdata/dashboard1.jpg)
+![Dashboard 1](/salesdata/dashboard1.JPG)
 ### **Insights**
 - Urban regions contribute the majority of revenue.
 - Revenue is concentrated among a few top manufacturers.
@@ -248,7 +248,7 @@ This dashboard provides a high-level overview of sales performance, revenue, and
 ##  Dashboard 2 — Market & Product Insights
 This dashboard focuses on deeper insights into products, segments, countries, and market performance.
 
-![Dashboard 2](/salesdata/dashboard2.jpg)
+![Dashboard 2](/salesdata/dashboard2.JPG)
 ### **Insights**
 - Convenience and Moderation segments lead revenue.
 - Some segments (Youth, Regular) require targeted interventions.
@@ -289,8 +289,8 @@ This project demonstrates strong analytical workflow: cleaning, modelling, DAX, 
   - [Dimension Tables(product, manufacturer, geo)](./salesdata/bi_dimension.xlsx)
 
 - **images**
-  - [dashboard1](./salesdata/dashboard1.jpg)
-  - [dashboard2](./salesdata/dashboard2.jpg)
+  - [dashboard1](./salesdata/dashboard1.JPG)
+  - [dashboard2](./salesdata/dashboard2.JPG)
   - [model_diagram](./salesdata/relationship.png)
 
 ## 📜 License & Attribution
